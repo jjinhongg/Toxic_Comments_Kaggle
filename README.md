@@ -5,7 +5,7 @@
   * train.csv: training data
   * test.csv: test data
   * test_labels.csv: test labels for toxic comments toxicity
-  * sample_submission.csv: sample submission form for Kaggle score. Used to generate (submission.csv) and (submission_LSTM_1DCNN.csv)
+  * sample_submission.csv: sample submission form for Kaggle score. Used to generate [submission.csv](submission.csv) and [submission_LSTM_1DCNN.csv](submission_LSTM_1DCNN.csv)
   
 * Code
   * EDA.ipynb: notebook with data exploration, corpus cleaning, feature engineering and Logistic Regression with baseline Naive-bayes SVM classifier model
